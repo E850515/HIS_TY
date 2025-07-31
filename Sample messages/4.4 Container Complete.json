@@ -1,0 +1,27 @@
+{
+  "eventId": "Container Complete",
+  "transactionId": "075f637c-d",
+  "dateTime": "2025-07-08 03:51:50.519",
+  "siteId": "AK",
+  "clientId": "30",
+  "picklistId": "4299935099003",
+  "pickListStatus": "D",
+  "targetContainerId": "18771781",
+  "containerType": "Carton1",
+  "containerLineDetails": [
+    {
+      "picklistId": "4299935099003",
+      "picklistStatus": "D",
+      "picklistLineId": "001",
+      "picklistLinetatus": "D",
+      "materialNumber": "3408491",
+      "quantity": 2,
+      "cancelledQuantity": 0,
+      "binId": "102264",
+      "partitionId": "04",
+      "portId": "10",
+      "userId": "vaish",
+      "dateTime": "2025-07-08 03:51:50.495"
+    }
+  ]
+}

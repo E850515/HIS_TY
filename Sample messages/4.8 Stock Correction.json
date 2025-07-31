@@ -1,0 +1,26 @@
+{
+  "eventId": "Stock Correction",
+  "transactionId": "d28e9942-a",
+  "siteId": "01",
+  "clientId": "30",
+  "dateTime": "07.07.25 03:31:05",
+  "portId": "10",
+  "userId": "vaish",
+  "referenceId": "MAT254",
+  "lineDetails": [
+    {
+      "materialNumber": "Test203",
+      "quantity": -6,
+      "reasonCode": "",
+      "batchId": "1",
+      "expiryDate": "11-10-2024",
+      "suplierLot": "#",
+      "manufacturingDate": "11-10-2024",
+      "originCountry": "IND",
+      "sourceBinId": "100024",
+      "sourcePartitionId": "01",
+      "category": "Return To Vendor",
+      "operation": "Negative"
+    }
+  ]
+}

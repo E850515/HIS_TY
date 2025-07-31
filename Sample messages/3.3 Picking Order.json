@@ -1,0 +1,48 @@
+{
+  "pickingOrder": [
+    {
+      "transactionId": "4",
+      "requestType": "I",
+      "siteId": "AK",
+      "clientId": "30",
+      "picklistId": "429999335323",
+      "pickingDate": "221111",
+      "pickStartDate": "2024-10-01T03:20:01Z",
+      "priority": 1,
+      "containerType": "Carton1",
+      "shipment": "",
+      "picklistType": "Pick-to-Tote",
+      "textHeader": [
+        {
+          "languageCode": "",
+          "shortText": "",
+          "longText": ""
+        }
+      ],
+      "line": [
+        {
+          "picklistLineId": "001",
+          "materialNumber": "TAM7",
+          "quantity": 5,
+          "estPickTime": "",
+          "batchId": "",
+          "expiryDate": "",
+          "supplierLot": "",
+          "manufacturingDate": "",
+          "originCountry": "",
+          "labelCode1": "",
+          "labelCode2": "",
+          "documentLink1": "",
+          "documentLink2": "",
+          "textLine": [
+            {
+              "languageCode": "",
+              "shortText": "",
+              "longText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

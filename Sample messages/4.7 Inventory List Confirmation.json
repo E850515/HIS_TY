@@ -1,0 +1,23 @@
+{
+  "eventId": "Inventory List Confirmation",
+  "transactionId": "e1eef37c-4b88-4d20-9bf3-d480d84e790f",
+  "siteId": "01",
+  "clientId": "30",
+  "invListId": "MAT254",
+  "invListType": "B",
+  "dateTime": "2025-07-04T16:57:50.187366",
+  "invListStatus": "O",
+  "line": [
+    {
+      "invListLineId": "1",
+	  "userId": "vaish",
+      "materialNumber": "Test208",
+      "quantity": 40,
+      "batchId": "2",
+      "expiryDate": "13-10-2024",
+      "supplierLot": "#1",
+      "manufacturingDate": "12-10-2024",
+      "originCountry": "US"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "status": "Error",
+        "requestId": "9eff0de7-74d4-4689-8fe0-bf833b3c7fc1",
+        "messageCode": "400",
+        "messageDescription": "VALIDATION ERRORS",
+        "messageTime": "1697544729400"
+    },
+    "data": null,
+    "errors": [
+        {
+            "fieldName": "picklistLineId",
+            "messageDescription": "picklistLineId value can not be null"
+        }
+    ],
+    "mapErrors": null
+}

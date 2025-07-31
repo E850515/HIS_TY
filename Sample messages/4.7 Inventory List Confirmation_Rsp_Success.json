@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "status": "Success",
+        "requestId": "9eff0de7-74d4-4689-8fe0-bf833b3c7fc1",
+        "messageCode": "200",
+        "messageDescription": "Message Accepted",
+        "messageTime": "1697544729400"
+    },
+    "data": null,
+    "errors": [ ],
+    "mapErrors": null
+}

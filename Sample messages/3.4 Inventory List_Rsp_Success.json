@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "errorCode": "SUCCESS",
+        "messageCode": "0",
+        "values": [],
+        "messageDescription": "Information Processed",
+        "messageTime": "2024-07-11T04:10:28.286420600"
+    },
+    "data": {
+        "success": true,
+        "reason": "Information Processed"
+    }
+}

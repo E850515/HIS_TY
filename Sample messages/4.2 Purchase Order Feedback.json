@@ -1,0 +1,10 @@
+{
+ "eventId": "Purchase Order Feedback",
+ "transactionId": "1751621310341",
+ "siteId": "AK",
+ "clientId": "30",
+ "dateTime": "07.07.25 02:45:16",
+ "referenceId": "342336333222223",
+ "status": "C",
+ "reason": "Success"
+}

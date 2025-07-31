@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "errorCode": "400",
+    "messageCode": "1",
+    "values": [],
+    "messageDescription": "VALIDATION ERRORS",
+    "messageTime": "2025-07-08T11:49:15.872710700"
+  },
+  "errors": [
+    {
+      "fieldName": "requestType",
+      "messageDescription": "requestType must be either of I,U,D"
+    }
+  ]
+}
