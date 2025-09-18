@@ -2,7 +2,7 @@
   "eventId": "Container Complete",
   "transactionId": "075f637c-d",
   "dateTime": "2025-07-08 03:51:50.519",
-  "siteId": "AK",
+  "siteId": "TY",
   "clientId": "30",
   "picklistId": "4299935099003",
   "pickListStatus": "D",
@@ -18,7 +18,6 @@
       "quantity": 2,
       "cancelledQuantity": 0,
       "binId": "102264",
-      "partitionId": "04",
       "portId": "10",
       "userId": "vaish",
       "dateTime": "2025-07-08 03:51:50.495"

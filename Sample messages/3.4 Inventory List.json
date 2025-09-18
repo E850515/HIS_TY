@@ -1,7 +1,7 @@
 {
   "transactionId": "1234567644220024",
   "requestType": "I",
-  "siteId": "AK",
+  "siteId": "TY",
   "clientId": "30",
   "invListId": "MAT254",
   "invListType": "B",
@@ -10,11 +10,7 @@
       "invListLineId": "1",
       "materialNumber": "Test208",
       "quantity": 3,
-      "batchId": "batchId",
-      "expiryDate": "expiryDate",
-      "supplierLot": "supplierLot",
-      "manufacturingDate": "manufacturingDate",
-      "originCountry": "originCountry"
+      "supplierLot": "supplierLot"
     }
   ]
 }

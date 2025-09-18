@@ -1,0 +1,15 @@
+{
+  "transactionId": "d28e9942-a",
+  "dateTime": "07.07.25 03:31:05",
+  "siteId": "01",
+  "clientId": "30",
+  "lineDetails": [
+    {
+      "materialNumber": "A1059363276",
+      "quantity": 10,
+      "BinId": "100024",
+      "PartitionId": "01",
+      "suplierLot": "234567"
+    }
+  ]
+}

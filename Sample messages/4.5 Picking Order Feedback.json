@@ -1,11 +1,10 @@
 {
   "eventId": "Picking Order Feedback",
   "transactionId": "1751626354597",
-  "siteId": "AK",
+  "siteId": "TY",
   "clientId": "30",
   "picklistId": "4299935099003",
-  "shipment": "",
-  "picklistType": "Pick-to-Tote",
+  "orderTypeId": "Pick-to-Tote",
   "dateTime": "04.07.25 22:52:34",
   "referenceId": "265",
   "priority": 1,

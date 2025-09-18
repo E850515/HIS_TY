@@ -1,31 +1,28 @@
 {
   "eventId": "Goods Receipt",
   "transactionId": "1600145543212000",
-  "siteId": "AK",
-  "clientId": "30",
   "dateTime": "20250707150716",
+  "siteId": "TY",
+  "clientId": "30",
   "purchaseOrderNumber": "707202504",
-  "purchaseOrderType": "I",
   "portId": "10",
   "userId": "vaish",
-  " extTransportNumber ": "etn1",
+
+  "status": "IN_PROGRESS",
+  "requester": "AUTOSTORE",
+  "messageId": "1600145543212000",
+  
   "lineDetails": [
     {
       "purchaseOrderLine": "0001",
       "materialNumber": "410489",
       "quantity": 10,
       "fulfilledQuantity": 10,
+      "supplierLot": "",
+      "manufacturingDate": "",
       "binId": "131515",
       "partitionId": "01",
-	  "batchId": "",
-	  "expiryDate": "",
-	  "supplierLot": "",
-	  "manufacturingDate": "",
-	  "originCountry": "",
       "status": "IN_PROGRESS"
     }
-  ],
-  "status": "IN_PROGRESS",
-  "requester": "AUTOSTORE",
-  "messageId": "1600145543212000"
+  ]
 }

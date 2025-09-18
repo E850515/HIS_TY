@@ -3,53 +3,23 @@
         {
             "transactionId": "7620283467111",
             "materialNumber": "MAT30",
-            "siteId": "AK",
+            "siteId": "TY",
             "clientId": "30",
             "requestType": "I",
-            "vendorProductId": "1234567-100-00",
-            "producerProductId": "",
-            "productGroup": "",
-            "productSubGroup": "",
-            "productHandlingType": "",
-            "productCategory1Bin": "1",
-            "productCategory1Comp": "1",
-            "productCategory2Bin": "1",
-            "productCategory2Comp": "1",
-            "isAutoStoreEligible": "Y",
             "EAN_IND": "1",
-            "textHeader": [
-                {
-                    "languageCode": "en",                    
-                    "shortText": "Game of Thrones",
-                    "longText": "A Game of Thrones is based on George RR Martin's internationally bestselling series A Song of Ice and Fire, the greatest fantasy epic of the modern age."
-                }
-            ],
-            "productIndicatorsDetails": [
-                {
-                    "indicatorName": "batchId",
-                    "process": "inbound",
-                    "indicatorRegex": " [a-z][A-Z]{15}"
-                },
-                {
-                    "indicatorName": "expiryDate",
-                    "process": "inbound",
-                    "indicatorRegex": " [a-z][A-Z]{15}"
-                }
-            ],
+            "isAutoStoreEligible": "Y",
+
             "logisticDetails": [
                 {
                     "logisticsUnitType": 1,
                     "logisticsUnit": "ST",
-                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCCGjChVsb1-clF09m4zQY06PLKjs3cnCGg&s",
+                    
                     "unitQuantity": 1,
                     "unitWidth": 100,
                     "unitLength": 100,
                     "unitHeight": 100,
                     "unitWeight": 1000,
                     "unitVolume": 0,
-                    "unitEanScancodes": [
-                        "MAT30"
-                    ],
                     "locationDetails": [
                         {
                             "locationType": "1x1",

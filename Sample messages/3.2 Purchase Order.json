@@ -3,47 +3,18 @@
     {
       "transactionId": "342336333222223",
       "requestType": "I",
-      "siteId": "AK",
+      "siteId": "TY",
       "clientId": "30",
-      "date": "2024-09-11 01:33:22",
       "purchaseOrderNumber": "707202505",
-      "purchaseOrderType": "I",
-      " extTransportNumber ": "4679523#6291263457",
-      "vendorId": "vendordId1",
-      "textHeader": [
-        {
-          "languageCode": "en",         
-          "shortText": "Harry Potter and the Sorceres Stone book is the fisrt book of Harry potter which describes the journey of Harry towards Hogwards",
-          "longText": "Harry Potter and the Sorceres Stone book is the fisrt book of Harry potter which describes the journey of Harry towards Hogwards."
-        }
-      ],
+      "date": "2024-09-11 01:33:22",
+      
       "line": [
         {
           "purchaseOrderLine": "0001",
           "materialNumber": "410489",
           "quantity": 100,
-          "batchId": "1",
-          "expiryDate": "11-10-2024",
           "supplierLot": "#",
           "manufacturingDate": "11-10-2024",
-          "originCountry": "IND",
-          "textLine": [
-            {
-              "languageCode": "en",
-              "shortText": "Game of Thrones",
-              "longText": "A Game of Thrones is based on George RR Martin's internationally bestselling series A Song of Ice and Fire, the greatest fantasy epic of the modern age."
-            }
-          ]
-        },
-        {
-          "purchaseOrderLine": "0002",
-          "materialNumber": "404210",
-          "quantity": 100,
-          "batchId": "1",
-          "expiryDate": "11-10-2024",
-          "supplierLot": "#",
-          "manufacturingDate": "11-10-2024",
-          "originCountry": "IND",
           "textLine": [
             {
               "languageCode": "en",
