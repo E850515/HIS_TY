@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "transactionId": "7620283467111",
+            "materialNumber": "20250919001",
+            "siteId": "TY",
+            "clientId": "30",
+            "requestType": "I",
+            "EAN_IND": "0",
+            "isAutoStoreEligible": "Y",
+            "textHeader": [
+                {}
+            ],
+            "logisticDetails": [
+                {
+                    "logisticsUnitType": 1,
+                    "logisticsUnit": "ST",
+                    "unitQuantity": 1,
+                    "unitWidth": 100,
+                    "unitLength": 100,
+                    "unitHeight": 100,
+                    "unitWeight": 1000,
+                    "unitVolume": 0,
+                    "locationDetails": [
+                        {
+                            "locationType": "1x1",
+                            "locTypeQuantity": 123
+                        },
+                        {
+                            "locationType": "2x1",
+                            "locTypeQuantity": 60
+                        },
+                        {
+                            "locationType": "2x2",
+                            "locTypeQuantity": 30
+                        },
+                        {
+                            "locationType": "4x2",
+                            "locTypeQuantity": 15
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

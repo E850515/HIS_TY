@@ -1,0 +1,39 @@
+{
+  "pickingOrder": [
+    {
+      "transactionId": "4",
+      "requestType": "I",
+      "siteId": "TY",
+      "clientId": "30",
+      "picklistId": "P20250919002",
+      "picklistType": "Pick-to-Tote",
+      "priority": 1,
+      
+      "pickingDate": "2024-10-01T03:20:01Z",
+      "pickStartDate": "2024-10-01T03:20:01Z",
+      "containerType": "Tote",
+      "textHeader": [
+        {
+          "languageCode": "",
+          "shortText": "",
+          "longText": ""
+        }
+      ],
+      "lines": [
+        {
+          "picklistLineId": "001",
+          "materialNumber": "20250919001",
+          "supplierLot": "",
+          "quantity": 5,
+          "textLine": [
+            {
+              "languageCode": "KR",
+              "shortText": "",
+              "longText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

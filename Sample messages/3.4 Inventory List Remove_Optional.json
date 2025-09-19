@@ -1,0 +1,15 @@
+{
+  "transactionId": "1234567644220024",
+  "requestType": "I",
+  "siteId": "TY",
+  "clientId": "30",
+  "invListId": "MAT254",
+  "invListType": "B",
+  "lines": [
+    {
+      "invListLineId": "1",
+      "materialNumber": "20250919001",
+      "quantity": 3
+    }
+  ]
+}
